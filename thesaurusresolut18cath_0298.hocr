@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusresolut18cath_0298.png"; bbox 0 0 1978 3017; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 1546 155 1570">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 1546 155 1570">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 1546 155 1570; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 147 1546 155 1570; x_wconf 43' lang='grc' dir='ltr'>,η</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 372 2834 1443 2917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 372 2834 1443 2917">
+     <span class='ocr_line' id='line_1_2' title="bbox 372 2834 1443 2917; baseline -0.004 -37.996"><span class='ocrx_word' id='word_1_2' title='bbox 372 2842 527 2898; x_wconf 34' lang='lat' dir='ltr'>tizam&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 548 2844 667 2895; x_wconf 49' lang='lat' dir='ltr'>{mavi</span> <span class='ocrx_word' id='word_1_4' title='bbox 692 2851 739 2880; x_wconf 58' lang='grc' dir='ltr'>’,ςιὶ44</span> <span class='ocrx_word' id='word_1_5' title='bbox 760 2843 959 2890; x_wconf 58' lang='grc' dir='ltr'>ῑΗνυμΜ</span> <span class='ocrx_word' id='word_1_6' title='bbox 952 2843 1165 2917; x_wconf 57' lang='lat' dir='ltr'>ffwmah</span> <span class='ocrx_word' id='word_1_7' title='bbox 1188 2834 1386 2891; x_wconf 45' lang='lat' dir='ltr'>adm&amp;</span> <span class='ocrx_word' id='word_1_8' title='bbox 1415 2868 1443 2875; x_wconf 21' lang='grc' dir='ltr'>,χ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 517 2883 1484 2942">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 517 2883 1484 2942">
+     <span class='ocr_line' id='line_1_3' title="bbox 517 2883 1484 2942; baseline -0.006 -14.866"><span class='ocrx_word' id='word_1_9' title='bbox 517 2883 710 2935; x_wconf 49' lang='lat' dir='ltr'>»mcum</span> <span class='ocrx_word' id='word_1_10' title='bbox 737 2895 881 2942; x_wconf 40' lang='lat' dir='ltr'>„amq</span> <span class='ocrx_word' id='word_1_11' title='bbox 888 2904 923 2922; x_wconf 68' lang='grc' dir='ltr'>τ·</span> <span class='ocrx_word' id='word_1_12' title='bbox 1085 2890 1104 2920; x_wconf 65' lang='lat'>⁸</span> <span class='ocrx_word' id='word_1_13' title='bbox 1110 2888 1261 2938; x_wconf 82' lang='grc' dir='ltr'>·;··ξιξ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1266 2901 1355 2924; x_wconf 55' lang='lat' dir='ltr'>ww</span> <span class='ocrx_word' id='word_1_15' title='bbox 1366 2893 1484 2922; x_wconf 43' lang='grc' dir='ltr'>ἀπή-η</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 252 127 1978 2922">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 252 127 1978 2922">
+     <span class='ocr_line' id='line_1_4' title="bbox 252 127 1978 2922; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 252 127 1978 2922; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1386 2806 1978 3017">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1386 2806 1978 3017">
+     <span class='ocr_line' id='line_1_5' title="bbox 1386 2806 1978 2922; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1386 2806 1978 2922; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1506 2922 1972 3017; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 1506 2922 1972 3017; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
